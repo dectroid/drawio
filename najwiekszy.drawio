@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-11-03T01:14:17.034Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="lFu2WaiR1m-wkUbBab1M" version="13.8.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-03T01:15:24.589Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="ZbCWm2LBcfez6k_rm2yX" version="13.8.5" type="github">
   <diagram id="VM9gNFSTtRiQbZlDsglk" name="Page-1">
-    <mxGraphModel dx="599" dy="1989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="1932" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="r10WBX3e6Jypb6VtqJ61-32" value="&lt;b&gt;&amp;nbsp;Diagram Biblioteka&lt;/b&gt;" style="html=1;shape=mxgraph.sysml.package;xSize=90;align=left;spacingLeft=10;overflow=fill;strokeWidth=1;recursiveResize=0;labelX=135.71;" vertex="1" parent="1">
-          <mxGeometry y="-100" width="1270" height="900" as="geometry" />
+          <mxGeometry x="8" y="-100" width="1270" height="900" as="geometry" />
         </mxCell>
         <mxCell id="r10WBX3e6Jypb6VtqJ61-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.126;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="BHRHvB2tTrrgc57krQOK-1" target="r10WBX3e6Jypb6VtqJ61-4">
           <mxGeometry relative="1" as="geometry" />
@@ -97,8 +97,11 @@
         <mxCell id="r10WBX3e6Jypb6VtqJ61-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="r10WBX3e6Jypb6VtqJ61-28" target="r10WBX3e6Jypb6VtqJ61-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r10WBX3e6Jypb6VtqJ61-52" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endArrow=blockThin;endFill=0;" edge="1" parent="1" source="r10WBX3e6Jypb6VtqJ61-28" target="r10WBX3e6Jypb6VtqJ61-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="r10WBX3e6Jypb6VtqJ61-52" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;endArrow=blockThin;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="937.5" y="481" as="sourcePoint" />
+            <mxPoint x="1131.3775510204082" y="401" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r10WBX3e6Jypb6VtqJ61-28" value="Konto Czytelnika" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="480" width="170" height="280" as="geometry" />
